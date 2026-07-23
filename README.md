@@ -98,7 +98,4 @@ longo do tempo.
 pip install numpy matplotlib
 python mpc_newton.py
 
-
-pip install numpy matplotlib
-python mpc_newton.py
 ```
